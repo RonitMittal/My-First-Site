@@ -1,1 +1,1 @@
-# My personal website using only html
+# My Web Development Journey
